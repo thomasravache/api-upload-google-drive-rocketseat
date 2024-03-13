@@ -1,0 +1,12 @@
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\CloudStorageTest.Application.csproj.AssemblyReference.cache
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\CloudStorageTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\CloudStorageTest.Application.AssemblyInfoInputs.cache
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\CloudStorageTest.Application.AssemblyInfo.cs
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\CloudStorageTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net7.0\CloudStorageTest.Application.deps.json
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net7.0\CloudStorageTest.Application.dll
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net7.0\CloudStorageTest.Application.pdb
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\CloudStorageTest.Application.dll
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\refint\CloudStorageTest.Application.dll
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\CloudStorageTest.Application.pdb
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net7.0\ref\CloudStorageTest.Application.dll

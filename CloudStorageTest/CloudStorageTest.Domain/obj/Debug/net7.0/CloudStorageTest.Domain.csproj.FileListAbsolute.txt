@@ -1,0 +1,5 @@
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Domain\obj\Debug\net7.0\CloudStorageTest.Domain.csproj.AssemblyReference.cache
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Domain\obj\Debug\net7.0\CloudStorageTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Domain\obj\Debug\net7.0\CloudStorageTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Domain\obj\Debug\net7.0\CloudStorageTest.Domain.AssemblyInfo.cs
+C:\Users\Thomas Ravache\dev\learning\rocketseat\api-upload-arquivos-google-drive\CloudStorageTest\CloudStorageTest.Domain\obj\Debug\net7.0\CloudStorageTest.Domain.csproj.CoreCompileInputs.cache
